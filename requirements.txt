@@ -1,0 +1,3 @@
+# Python 3.10+; no third-party pip dependencies.
+# The graphical demos require Tkinter supplied by your Python/OS distribution.
+# Training, evaluation, and tests use only the Python standard library.

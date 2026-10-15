@@ -1,0 +1,19 @@
+{
+  "seed_start": 4000000,
+  "random_actions": {
+    "episodes": 500,
+    "success_rate": 0.416,
+    "mean_steps": 321.612,
+    "collisions": 31963,
+    "mean_turns": 214.892,
+    "mean_opposite_turn_pairs": 71.726
+  },
+  "learned_policy": {
+    "episodes": 500,
+    "success_rate": 1.0,
+    "mean_steps": 23.16,
+    "collisions": 0,
+    "mean_turns": 5.92,
+    "mean_opposite_turn_pairs": 0.0
+  }
+}
